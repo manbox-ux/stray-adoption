@@ -30,7 +30,7 @@ export default function Header({ onOpenApplications, applicationsCount }: Header
             </div>
             <div>
               <span className="font-sans text-xl sm:text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-amber-600 via-orange-600 to-rose-600 tracking-tight">
-                萌寵尋家
+                浪浪認養
               </span>
               <span className="hidden sm:inline-block ml-2 text-xs font-medium text-amber-600 tracking-wider bg-amber-50 px-2 py-0.5 rounded-full border border-amber-100">
                 溫馨認養平台

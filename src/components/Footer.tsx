@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="flex flex-col space-y-4">
             <div className="flex items-center space-x-2">
               <span className="font-sans text-2xl font-black tracking-tight text-white">
-                萌寵尋家 <span className="text-amber-400">🐾</span>
+                浪浪認養 <span className="text-amber-400">🐾</span>
               </span>
             </div>
             <p className="text-orange-200/80 text-sm leading-relaxed max-w-sm">
@@ -123,7 +123,7 @@ export default function Footer() {
 
         {/* Footer bottom bar */}
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 text-xs text-orange-300/70 space-y-4 md:space-y-0">
-          <p>© {currentYear} 萌寵尋家動物認養平台. All Rights Reserved. 認養代替購買，愛牠不棄牠。</p>
+          <p>© {currentYear} 浪浪認養平台. All Rights Reserved. 認養代替購買，愛牠不棄牠。</p>
           <div className="flex space-x-4">
             <a href="#rules" className="hover:text-amber-400 transition-colors">認養須知及法律規範</a>
             <span>•</span>
