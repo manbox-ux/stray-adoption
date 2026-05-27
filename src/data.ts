@@ -52,7 +52,7 @@ export const PETS_DATA: Pet[] = [
     type: 'dog',
     images: [
       'https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&q=80&w=600',
-      'https://images.unsplash.com/photo-1612536057832-2ff7eed58194?auto=format&fit=crop&q=80&w=600',
+      'https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?auto=format&fit=crop&q=80&w=600',
       'https://images.unsplash.com/photo-1537151608828-ea2b117b6281?auto=format&fit=crop&q=80&w=600'
     ],
     breed: '溫馨柯基犬 (Corgi)',
