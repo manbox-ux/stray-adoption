@@ -148,7 +148,7 @@ export default function App() {
             transition={{ delay: 0.2, duration: 0.6 }}
             className="max-w-2xl mx-auto text-base sm:text-lg text-orange-950/70 font-medium leading-relaxed mb-10"
           >
-            在「浪浪認養」，每隻貓咪與狗狗都是我們全心呵護的家人。牠們正搖著尾巴、瞇著眼，期待著生命中那位最溫柔的您出現相遇。
+            在「萌寵尋家」，每隻貓咪與狗狗都是我們全心呵護的家人。牠們正搖著尾巴、瞇著眼，期待著生命中那位最溫柔的您出現相遇。
           </motion.p>
 
           {/* Quick Metrics Cards */}

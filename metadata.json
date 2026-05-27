@@ -1,5 +1,5 @@
 {
-  "name": "浪浪認養",
+  "name": "萌寵尋家",
   "description": "一個溫馨活潑、響應式的動物認養網站，提供貓咪與狗狗的照片輪播、詳細資訊、篩選功能及互動式「我想認養」申請服務。",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
